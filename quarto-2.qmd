@@ -1,0 +1,6 @@
+---
+title: "quarto-2"
+author: Collin Gates
+format: html
+---
+
